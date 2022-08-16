@@ -1,12 +1,10 @@
 # FedLSR
 
-This repository is the official Pytorch implementation DEMO of FedLSR framework in the paper:
+This repository is the official **Pytorch** implementation DEMO of FedLSR framework in the paper:
 
 Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**egularization (CIKM 2022 full paper track)
 
-Coming Soon~
 
-(currently working on the camera-ready version & another DDL)
 
 ----------------------------
 ## Baselines:
