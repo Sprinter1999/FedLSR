@@ -7,7 +7,7 @@ Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**
 
 
 ----------------------------
-## Baselines:
+## Main Baselines:
 - FedAvg [[paper](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)]
 - Symmetric Cross Entropy [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.html)] [[code](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)]
 - Co-teaching [[paper](https://proceedings.neurips.cc/paper/2018/hash/a19744e268754fb0148b017647355b7b-Abstract.html)] [[code](https://github.com/bhanML/Co-teaching)]
