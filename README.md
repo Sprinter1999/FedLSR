@@ -23,5 +23,16 @@ Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**
 -------
 
 ## Citing this work:
-
-coming soon~
+```bibtex
+@inproceedings{Jiang-2022,
+    title = "Towards Federated Learning against Noisy Labels via Local Self-Regularization",
+    author = "Xuefeng Jiang, Sheng Sun, Yuwei Wang, Min Liu",
+    booktitle = "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA",
+    month = oct,
+    year = "2022",
+    address = "Atlanta, GA, USA",
+    publisher = "Association for Computing Machinery (ACM)",
+    pages = "12 pages",
+    doi = "10.1145/3511808.3557110"
+}
+```
