@@ -30,7 +30,6 @@ Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**
     booktitle = "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA",
     month = oct,
     year = "2022",
-    address = "Atlanta, GA, USA",
     publisher = "Association for Computing Machinery (ACM)",
     pages = "12 pages",
     doi = "10.1145/3511808.3557110"
