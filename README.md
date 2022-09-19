@@ -21,6 +21,9 @@ Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**
 - Other dependencies
 
 -------
+## Special Thanks
+ - Girum gives some valuable comments in the Github Issue part, and I just clarify some missed points of this paper. Please visit there for more information.
+-------
 
 ## Citing this work:
 ```bibtex
