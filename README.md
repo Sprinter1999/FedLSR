@@ -6,6 +6,7 @@ Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**
 
 The slides for the oral presentation link is [here](https://github.com/Sprinter1999/FedLSR/blob/main/paper/%5BCIKM%E2%80%9922%5D%20Towards%20Federated%20Learning%20against%20Noisy%20Labels%20via%20Local%20Self-Regularization.pdf).
 
+For researchers who are interested to adopt this as a baseline, please take care of the diffence between FedLSR and FedLSR+ (which is given in the discussion section). The key to append an entropy regularization term (to devise FedLSR+) is to further make the model more robust to extreme noisy labels.
 
 
 ----------------------------
@@ -24,7 +25,7 @@ The slides for the oral presentation link is [here](https://github.com/Sprinter1
 
 -------
 ## Special Thanks
- - Girum gives some valuable comments in the Github Issue part, and I just clarify some missed points of this paper. Please visit there for more information.
+ - Girum & IAMjmj give some valuable comments in the Github Issue part, and I just clarify some missed points of this paper. Please visit there for more information.
 -------
 
 ## Citing this work:
