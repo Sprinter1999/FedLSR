@@ -30,14 +30,13 @@ The slides for the oral presentation link is [here](https://github.com/Sprinter1
 
 ## Citing this work:
 ```bibtex
-@inproceedings{Jiang22,
-    title = "Towards Federated Learning against Noisy Labels via Local Self-Regularization",
-    author = "Xuefeng Jiang, Sheng Sun, Yuwei Wang, Min Liu",
-    booktitle = "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA",
-    month = oct,
-    year = "2022",
-    publisher = "Association for Computing Machinery (ACM)",
-    pages = "12 pages",
-    doi = "10.1145/3511808.3557110"
-}
+@inproceedings{Jiang_2022,	
+ doi = {10.1145/3511808.3557475},	
+ url = {https://doi.org/10.1145%2F3511808.3557475},	
+ year = 2022,	
+ month = {oct},	
+ publisher = {{ACM}},	
+ author = {Xuefeng Jiang and Sheng Sun and Yuwei Wang and Min Liu},	
+ title = {Towards Federated Learning against Noisy Labels via Local Self-Regularization},	
+ booktitle = {Proceedings of the 31st {ACM} International Conference on Information {\&}amp$\mathsemicolon$ Knowledge Management}}
 ```
