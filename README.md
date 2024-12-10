@@ -1,12 +1,12 @@
 # FedLSR
 
-This repository is the official **Pytorch** implementation DEMO of FedLSR framework in this [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557475):
+This repository is the official **Pytorch** implementation DEMO of **FedLSR** framework in this [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557475):
 
 Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**egularization (CIKM 2022 full paper track)
 
-The slides for the oral presentation link is [here](https://github.com/Sprinter1999/FedLSR/blob/main/paper/%5BCIKM%E2%80%9922%5D%20Towards%20Federated%20Learning%20against%20Noisy%20Labels%20via%20Local%20Self-Regularization.pdf).
+We provide a simple yet effective method **FedLSR** to tackle the distributed label noise issue when the total class number is not high. The slides for the oral presentation link is [here](https://github.com/Sprinter1999/FedLSR/blob/main/paper/%5BCIKM%E2%80%9922%5D%20Towards%20Federated%20Learning%20against%20Noisy%20Labels%20via%20Local%20Self-Regularization.pdf).
 
-**Note**: For researchers who are interested to adopt this as a baseline, please **take care of the difference between FedLSR and FedLSR+** (which is given in the discussion section). The key motivation to append an entropy regularization term (to devise FedLSR+) is to further make the model more robust to extreme noisy labels. For experiments on clothing1M, it is suggested to raise the learning rate to 0.1 for FedLSR's implementation.
+**Note**: For experiments on clothing1M, it is suggested to raise the learning rate to 0.1 for FedLSR's implementation.
 
 
 ----------------------------
