@@ -1,13 +1,9 @@
 # FedLSR
 
 This repository is the official **Pytorch** implementation DEMO of **FedLSR** framework in this [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557475):
+Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**egularization (CIKM 2022 full paper track).
 
-Towards **Fed**erated Learning against Noisy Labels via **L**ocal **S**elf-**R**egularization (CIKM 2022 full paper track)
-
-We provide a simple yet effective method **FedLSR** to tackle the distributed label noise issue when the total class number is not high. The slides for the oral presentation link is [here](https://github.com/Sprinter1999/FedLSR/blob/main/paper/%5BCIKM%E2%80%9922%5D%20Towards%20Federated%20Learning%20against%20Noisy%20Labels%20via%20Local%20Self-Regularization.pdf).
-
-**Note**: For experiments on clothing1M, it is suggested to raise the learning rate to 0.1 for FedLSR's implementation.
-
+In this work, we provide a simple yet effective method **FedLSR** to tackle the distributed label noise issue when the total class number is not high. The slide for the oral presentation link is [here](https://github.com/Sprinter1999/FedLSR/blob/main/paper/%5BCIKM%E2%80%9922%5D%20Towards%20Federated%20Learning%20against%20Noisy%20Labels%20via%20Local%20Self-Regularization.pdf). Meanwhile, we provide an implementation code to experiment on `Clothing1M` in this [link](https://github.com/Sprinter1999/Clothing1M_FedAvg). Note that, for  experiments on clothing1M, it is suggested to raise the learning rate to 0.1 for FedLSR's implementation.
 
 ----------------------------
 ## Main Baselines
